@@ -216,17 +216,19 @@ As the business scales, introduce **ground-floor retail or café tenancies** in 
 
 ## 7. Financial Model Snapshot (Per 20-Lot Townhouse Development)
 
-| Item | Estimate |
-|---|---|
-| Land cost (growth corridor) | $1.5M–$2.5M |
-| Construction cost (prefab, 20 x 3BR) | $3.0M–$4.5M |
-| Solar + battery + EMS | $200K–$400K |
-| Approvals, consultants, contingency | $250K–$400K |
-| **Total Cost** | **~$5M–$7.5M** |
-| **Revenue (sale of 20 lots @ $650K avg)** | **$13M** |
-| **Gross Profit** | **$5.5M–$8M** |
-| **Construction period** | **3 months** (vs. 12 months for competitors) |
-| **Annual passive income (body corp + energy, retained)** | **$20,000–$40,000/year per development** |
+| Item | Estimate (Conservative) | Estimate (Base Case) |
+|---|---|---|
+| Land cost (growth corridor, 20 lots) | $2.5M | $1.8M |
+| Construction cost (prefab, 20 x 3BR) | $5.0M ($250K/unit) | $3.8M ($190K/unit) |
+| Solar + battery + EMS | $600K | $350K |
+| Approvals, consultants, contingency (10%) | $500K | $350K |
+| Marketing & sales (3% of revenue) | $390K | $300K |
+| **Total Cost** | **~$8.99M** | **~$6.6M** |
+| **Revenue (sale of 20 lots @ $650K avg)** | **$13M** | **$13M** |
+| **Gross Profit** | **~$4M** | **~$6.4M** |
+| **Gross Margin** | **~31%** | **~49%** |
+| **Construction period** | **3–4 months** (vs. 12 months for competitors) |
+| **Annual passive income (body corp + energy, retained)** | **$12,000–$25,000/year per development** |
 
 > The 3-month build cycle means you can potentially complete **3–4 developments per year** vs. competitors completing 1. That's a 3–4x multiplier on annual volume without needing more capital — just faster turns.
 
